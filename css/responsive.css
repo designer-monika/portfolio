@@ -1,0 +1,629 @@
+@media (max-width: 350px) {
+    .info-header h1 {
+        font-size: 22px !important;
+    }
+}
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+/*========== Start Theme Preview Index ==========*/  
+.header-area .info-header h1 {
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+.header-area .info-header p {
+    font-size: 13px;
+    line-height: 24px;
+}
+/*========== Start Navbar ==========*/   
+.navbar-light .navbar-brand {
+    display: block;
+    margin-right: auto !important;
+    margin-left: auto !important;
+}
+.navbar-light .navbar-brand .logo-2 {
+    display: block;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.navbar-light .navbar-brand .logo-1 {
+    display: none;
+}
+.navbar-light .navbar-brand img {
+    width: 100px;
+    margin-right: 25px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+.navbar-light .navbar-toggler {
+    position: absolute;
+    lefT: 0;
+    top: 24px;
+    padding: 10px 0 0 0;
+}
+.right-list-nav {
+    position: absolute;
+    right: 0;
+    top: 17px;
+}
+    
+    
+.side-menu {
+    width: 100%;
+    padding: 100px 20px 50px 20px;
+}
+.share-media {
+    padding-top: 50px;
+}
+.share-media .share-media-item {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+.share-media .share-media-item a {
+    margin-bottom: 15px;
+}
+.share-media .share-media-item h5 {
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+.share-media .share-media-item span {
+    font-size: 12px;
+}
+.search-screen .input-search input[type="search"] {
+    width: 95%;
+}
+.search-screen .search-btn {
+    margin-right: 20px;
+}
+.side-menu-btn span {
+    background: transparent;
+    border: 2px solid #444;
+}
+   
+    
+    
+.side-menu-btn {
+    padding-left: 5px;
+} 
+.side-menu-btn .line-btn-one {
+    height: 10px;
+    margin-bottom: 4px;
+}
+.upper-bar {
+    display: none;
+}
+.business-nav {
+    top: 0;
+}
+    
+.navbar-light {
+    background: #FFF;
+}
+.navbar-light .navbar-toggler-icon,
+.navbar-light .navbar-toggler-icon.active ,
+.nav-fixed .navbar-toggler-icon,
+.nav-fixed .navbar-toggler-icon.active {
+    
+    background: #444 !important;
+}
+.fixed-top .navbar-nav .active>.nav-link,
+.fixed-top  .navbar-nav .nav-link.active,
+.fixed-top .navbar-nav .nav-link.show,
+.fixed-top  .navbar-nav .show>.nav-link
+{
+    color: #f57479 !important;
+}
+
+.fixed-top  .navbar-nav .active>.nav-link:before,
+.fixed-top  .navbar-nav .nav-link.active:before,
+.fixed-top  .navbar-nav .nav-link.show:before,
+.fixed-top  .navbar-nav .show>.nav-link:before {
+    opacity: 0;  
+}
+.nav-fixed .navbar-nav .active>.nav-link:before,
+.nav-fixed .navbar-nav .nav-link.active:before,
+.nav-fixed .navbar-nav .nav-link.show:before,
+.nav-fixed .navbar-nav .show>.nav-link:before {
+    opacity: 0;
+}
+.navbar-light .navbar-collapse {
+    background: #FFF;
+}
+.navbar-light .navbar-nav .nav-item .nav-link {
+    color: #444;
+    margin: 0;  
+    padding: 0 0 15px 0;
+} 
+.fixed-top .social-media-nav li a {
+    color: #444 !important;
+}
+.social-media-nav {
+    padding: 10px 0;
+    padding-left: 0;
+}
+.navbar-light  .social-media-nav li {
+    padding-right: 10px;
+    padding-left: 0
+}
+.navbar-light  .social-media-nav li a {
+    color: #444;
+}
+.nav-fixed .social-media-nav li:first-of-type:before {
+    background: #FFF;
+}
+/*========== Start Header ==========*/    
+.info-header h1 {
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.banner-meta {
+    margin-bottom: 25px;
+}
+.banner-meta li {
+    margin-right: 10px;
+    margin-left: 10px;
+    font-size: 14px;
+}
+.banner-meta li::before {
+    display: none;
+}
+    .text-header {
+        font-size: 14px;
+    }
+.slider-hero .owl-nav {
+    display: none;
+}
+.home-business .play-video div.play {
+    margin: 0;
+}
+.header-4 .text-header {
+    color: #444;
+    font-size: 15px;
+    margin-bottom: 30px;
+}
+/*========== Start About ==========*/
+.section-title h3,
+.section-title-left h3 {
+    font-size: 25px;
+    line-height: 30px;
+    margin-bottom: 15px;
+    margin-top: 20px;
+
+}
+.section-title h2,
+.section-title-left h2 {
+    font-size: 15px;
+}
+.about-img-01 {
+    padding-left: 0px;
+    margin-bottom: 50px;
+}
+.info-about p {
+    margin-bottom: 25px;
+}
+.info-about {
+    margin-bottom: 50px;
+}
+.about-img-01 .hover-img {
+    margin-right: 0;
+}
+.about-img-01 .meta-img::before {
+    display: none;
+}
+.about-img-02 {
+    margin-bottom: 50px;
+    padding-right: 0;
+}
+.about-img-02 .hover-img {
+    margin-left: 0;
+}
+.about-img-02 .meta-img::before {
+    display: none;
+}
+.padding-skills {
+  padding-right: 15px;  
+}
+.img-skills {
+        margin-top: 30px;
+    margin-bottom: 20px;
+}
+.about-mock-up {
+    margin-bottom: 50px;
+    padding-right: 0;
+}
+.lets-work h3 {
+    font-size: 24px;
+    line-height: 30px;
+}
+.cercil,
+.dots-feat,
+.dots-skills,
+.cercil-skills,
+.testimonials-two .owl-nav {
+    display: none;
+}
+    
+.scroll-up {
+    bottom: 90px;
+    right: 10px;
+}
+    
+    
+/* Blog Pages */
+.breadcrumb-area h1 {
+    font-size: 25px;
+    margin-bottom: 20px
+}
+.single-blog .blog-info {
+    padding: 20px;
+}
+.single-blog .blog-info .date li {
+    padding-right: 10px;
+}
+.single-blog .author img {
+    margin-right: 5px;
+}
+.single-blog .share span {
+    padding-right: 5px;
+}
+.single-blog .share-social li {
+    padding-left: 5px;
+}
+.blog-area .blog-info,
+.inner-comments,
+.comment-form,
+.widget-profile,
+.widget-search,
+.widget-posts,
+.tags-list,
+.widget-newsletter,
+.comments .title-comments,
+.title-add, 
+.title-widget {
+
+    padding: 20px;
+}
+.categories-list li a {
+    padding-left: 20px;
+}
+.comment-author img {
+    margin-right: 10px;
+    width: 60px;
+    height: 60px;
+}
+.person {
+    padding-left: 70px;
+}
+    
+.reply {
+    margin-left: 0px;
+}
+}
+
+
+
+/* Small devices (landscape phones, less than 768px) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+.upper-bar {
+    display: none;
+}
+.business-nav {
+    top: 0;
+}
+/*========== Start Theme Preview Index ==========*/  
+.header-area h1 {
+    margin-bottom: 20px;
+    font-size: 35px;
+}
+ /*========== Start Navbar ==========*/   
+.navbar-light .navbar-brand {
+    display: block;
+    margin-right: auto !important;
+    margin-left: auto !important;
+}
+.navbar-light .navbar-brand .logo-2 {
+    display: block;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.navbar-light .navbar-brand .logo-1 {
+    display: none;
+}
+.navbar-light .navbar-brand img {
+    width: 110px;
+    margin-right: 25px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+.navbar-light .navbar-toggler {
+    position: absolute;
+    lefT: 0;
+    top: 24px;
+    padding: 10px 0 0 0;
+}
+.right-list-nav {
+    position: absolute;
+    right: 0;
+    top: 17px;
+}
+.side-menu-btn span {
+    background: transparent;
+    border: 2px solid #444;
+}
+    
+.side-menu-btn {
+    padding-left: 5px;
+} 
+.side-menu-btn .line-btn-one {
+    height: 10px;
+    margin-bottom: 4px;
+}
+  
+.navbar-light {
+    background: #FFF;
+}
+.navbar-light .navbar-toggler-icon,
+.navbar-light .navbar-toggler-icon.active ,
+.nav-fixed .navbar-toggler-icon,
+.nav-fixed .navbar-toggler-icon.active {
+    
+    background: #444 !important;
+}
+.fixed-top .navbar-nav .active>.nav-link,
+.fixed-top  .navbar-nav .nav-link.active,
+.fixed-top .navbar-nav .nav-link.show,
+.fixed-top  .navbar-nav .show>.nav-link
+{
+    color: #f57479 !important;
+}
+
+.fixed-top  .navbar-nav .active>.nav-link:before,
+.fixed-top  .navbar-nav .nav-link.active:before,
+.fixed-top  .navbar-nav .nav-link.show:before,
+.fixed-top  .navbar-nav .show>.nav-link:before {
+    opacity: 0;  
+}
+.nav-fixed .navbar-nav .active>.nav-link:before,
+.nav-fixed .navbar-nav .nav-link.active:before,
+.nav-fixed .navbar-nav .nav-link.show:before,
+.nav-fixed .navbar-nav .show>.nav-link:before {
+    opacity: 0;
+}
+.navbar-light .navbar-collapse {
+    background: #FFF;
+}
+.navbar-light .navbar-nav .nav-item .nav-link {
+    color: #444;
+    margin: 0;  
+    padding: 0 0 15px 0;
+} 
+.fixed-top .social-media-nav li a {
+    color: #444 !important;
+}
+.social-media-nav {
+    padding: 10px 0;
+    padding-left: 0;
+}
+.navbar-light  .social-media-nav li {
+    padding-right: 10px;
+    padding-left: 0
+}
+.navbar-light  .social-media-nav li a {
+    color: #444;
+}
+.nav-fixed .social-media-nav li:first-of-type:before {
+    background: #FFF;
+}
+/*========== Start Header ==========*/    
+.info-header h1 {
+    font-size: 38px;
+}
+.header-4 .text-header {
+    color: #444;
+    font-size: 20px;
+    margin-bottom: 35px;
+}
+/*========== Start About ==========*/
+.section-title h3,
+.section-title-left h3 {
+    font-size: 30px;
+    line-height: 35px;
+
+}
+.section-title h2,
+.section-title-left h2 {
+    font-size: 15px;
+}
+.about-img-01 {
+    padding-left: 0px;
+    margin-bottom: 90px;
+}
+.info-about {
+    margin-bottom: 40px;
+}
+.about-img-02 {
+    margin-bottom: 90px;
+    padding-right: 0;
+}
+.padding-skills {
+  padding-right: 15px;  
+}
+.img-skills {
+        margin-top: 30px;
+    margin-bottom: 20px;
+}
+.about-mock-up {
+    margin-bottom: 50px;
+    padding-right: 0;
+}
+.lets-work h3 {
+    font-size: 30px;
+    line-height: 35px;
+}
+.cercil,
+.dots-feat,
+.dots-skills,
+.cercil-skills,
+.testimonials-two .owl-nav {
+    display: none;
+}
+.scroll-up {
+    bottom: 90px;
+    right: 10px;
+}
+}
+
+/*  Medium devices (tablets, less than 992px) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/*========== Start Navbar ==========*/   
+.navbar-light .navbar-brand {
+    display: block;
+    margin-right: auto !important;
+    margin-left: auto !important;
+}
+.navbar-light .navbar-brand .logo-2 {
+    display: block;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.navbar-light .navbar-brand .logo-1 {
+    display: none;
+}
+.navbar-light .navbar-brand img {
+    width: 130px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.navbar-light .navbar-toggler {
+    position: absolute;
+    lefT: 0;
+    top: 24px;
+    padding: 10px 0 0 0;
+}
+.right-list-nav {
+    position: absolute;
+    right: 0;
+    top: 17px;
+}
+.side-menu-btn span {
+    background: transparent;
+    border: 2px solid #444;
+}
+    
+.side-menu-btn {
+    padding-left: 5px;
+} 
+.side-menu-btn .line-btn-one {
+    height: 10px;
+    margin-bottom: 4px;
+}
+  
+.navbar-light {
+    background: #FFF;
+}
+.navbar-light .navbar-toggler-icon,
+.navbar-light .navbar-toggler-icon.active ,
+.nav-fixed .navbar-toggler-icon,
+.nav-fixed .navbar-toggler-icon.active {
+    
+    background: #444 !important;
+}
+.fixed-top .navbar-nav .active>.nav-link,
+.fixed-top  .navbar-nav .nav-link.active,
+.fixed-top .navbar-nav .nav-link.show,
+.fixed-top  .navbar-nav .show>.nav-link
+{
+    color: #f57479 !important;
+}
+
+.fixed-top  .navbar-nav .active>.nav-link:before,
+.fixed-top  .navbar-nav .nav-link.active:before,
+.fixed-top  .navbar-nav .nav-link.show:before,
+.fixed-top  .navbar-nav .show>.nav-link:before {
+    opacity: 0;  
+}
+.nav-fixed .navbar-nav .active>.nav-link:before,
+.nav-fixed .navbar-nav .nav-link.active:before,
+.nav-fixed .navbar-nav .nav-link.show:before,
+.nav-fixed .navbar-nav .show>.nav-link:before {
+    opacity: 0;
+}
+.navbar-light .navbar-collapse {
+    background: #FFF;
+}
+.navbar-light .navbar-nav .nav-item .nav-link {
+    color: #444;
+    margin: 0;  
+    padding: 0 0 15px 0;
+} 
+.fixed-top .social-media-nav li a {
+    color: #444 !important;
+}
+.social-media-nav {
+    padding: 10px 0;
+    padding-left: 0;
+}
+.navbar-light  .social-media-nav li {
+    padding-right: 10px;
+    padding-left: 0
+}
+.navbar-light  .social-media-nav li a {
+    color: #444;
+}
+.nav-fixed .social-media-nav li:first-of-type:before {
+    background: #FFF;
+}
+/*========== Start Header ==========*/    
+.info-header h1 {
+    font-size: 45px;
+}
+
+.section-title p {
+    padding-right: 0;
+    padding-left: 0;
+}
+/*========== Start About ==========*/
+.section-title h3,
+.section-title-left h3 {
+    font-size: 32px;
+
+}
+.section-title h2,
+.section-title-left h2 {
+    font-size: 15px;
+}
+.about-img-01 {
+    padding-left: 0px;
+    margin-bottom: 90px;
+}
+.info-about {
+    margin-bottom: 40px;
+}
+.about-img-02 {
+    margin-bottom: 90px;
+    padding-right: 0;
+}
+.padding-skills {
+  padding-right: 15px;  
+}
+.img-skills {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.about-mock-up {
+    margin-bottom: 50px;
+    padding-right: 0;
+}
+.lets-work h3 {
+    font-size: 32px;
+}
+.scroll-up {
+    bottom: 90px;
+    right: 10px;
+}
+}
+
+/* Large devices (desktops, less than 1200px) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+}
