@@ -414,7 +414,7 @@ body {
     padding: 0;
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
-    font-size: 15px;
+    font-size: 14px;
     color: #9e9e9e;
     line-height: 25px;
 }
@@ -472,7 +472,7 @@ body {
 }
 .navbar-nav .nav-item .nav-link {
     color: #fff;
-    font-size: 13px;
+    font-size: 11px;
     letter-spacing: 1px;
     font-weight: 600;
     padding: 20px 0;
@@ -643,29 +643,36 @@ body {
 }
 .info-header {
     height: 100vh;
-    min-height: 100%;
-    text-align: center;
-    padding: 100px 0;
+    min-height: 100%
 }
 
 
 .info-header h1 {
     color: #f3c26b;
-    white-space: nowrap;    
+    white-space: nowrap;
+    margin: 0 0 30px 0px;
     text-transform: capitalize;
     letter-spacing: 4px;
     padding-left: 70px;
-    font-size:80px;
+    font-size: 50px;
     text-align: left;
     font-weight: 700;
     line-height: 70px;
     position: relative;
-    text-align: center;
-    margin-bottom: 30px
+    
 }
 
 
-
+.info-header h1::before {
+    content: " ";
+    display: block;
+    background: #f3c26b;
+    width: 50px;
+    height: 6px;
+    top: 31px;
+    left: 0;
+    position: absolute;
+}
 
 .info-header h1 span {
     color: #fff;
@@ -676,20 +683,15 @@ body {
     z-index: 33;
 }
 
-.info-header  h3{
-    color: #A8A8A8;
-    line-height: 35px;
-    font-size:19px;
-}
-.info-header  h3 span{
-    color: #fff;
-}
 .banner-meta {
-    margin: 0 0 30px;
+    margin: 0 0 50px;
     background: rgba(62, 62, 62, 0.82);
+    margin-left: 70px;
+    padding-left: 25px;
     display: inline-block;
-    padding: 10px 30px
-     
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;  
 }
 .banner-meta li {
     letter-spacing: 2px;
@@ -1845,10 +1847,3 @@ footer .copyright a {
                         End Footer
 ----------------------------------------------------------------*/
 
-.sm-monika{
-    color: #fff;
-    font-size: 20px;
-}
-.sm-monika span{
-    color: #f3c26b
-}

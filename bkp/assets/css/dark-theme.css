@@ -161,11 +161,7 @@ input[type="text"], input[type="email"], input[type="url"], input[type="tel"], i
 
 /*------------- testimonials -----------*/
 .testimonials {
-    background:url('../images/header/header.jpg');
-    background-attachment: fixed;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: 50%
+    background: #2f2f31;
 }
 
 .testimonials .testmonail-box {
