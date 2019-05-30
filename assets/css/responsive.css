@@ -5,11 +5,11 @@
     background: #FFF;
 }
 .dark.navbar-light {
-    background: #343436 ;
+    background: rgba(0,0,0,0.5) ;
     border-bottom: 1px solid #29292d;
 }
 .dark.navbar-light .navbar-collapse {
-    background: #343436;
+    background: rgba(0,0,0,0.5);
 }
 .dark.navbar-light .navbar-nav .nav-item .nav-link {
     color: #f9f9f9;
