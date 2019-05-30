@@ -18,24 +18,24 @@
     color: #f9f9f9;
 }
 .fixed-top .navbar-brand {
-    color: #f3c26b !important;
+    color: #ffb252 !important;
 }
 .fixed-top .navbar-brand .brand-bg {
-    background: #f3c26b;
+    background: #ffb252;
 }
 .navbar-light .navbar-toggler-icon,
 .navbar-light .navbar-toggler-icon.active ,
 .nav-fixed .navbar-toggler-icon,
 .nav-fixed .navbar-toggler-icon.active {
     
-    background: #f3c26b !important;
+    background: #ffb252 !important;
 }
 .fixed-top .navbar-nav .active>.nav-link,
 .fixed-top  .navbar-nav .nav-link.active,
 .fixed-top .navbar-nav .nav-link.show,
 .fixed-top  .navbar-nav .show>.nav-link
 {
-    color: #f3c26b !important;
+    color: #ffb252 !important;
 }
 
 .fixed-top  .navbar-nav .active>.nav-link:before,
@@ -75,10 +75,11 @@
 }
 /*========== Start Header ==========*/    
 .info-header h1 {
-    font-size: 26px;
-    margin-bottom: 20px;
-    line-height: 36px;
+    font-size: 55px;
+    margin-bottom: 0;
+    line-height: 80px;
     padding-left: 0;
+    white-space: normal;
 }
 .info-header h1::before {
     display: none;
@@ -181,14 +182,14 @@
 .nav-fixed .navbar-toggler-icon,
 .nav-fixed .navbar-toggler-icon.active {
     
-    background: #f3c26b !important;
+    background: #ffb252 !important;
 }
 .fixed-top .navbar-nav .active>.nav-link,
 .fixed-top  .navbar-nav .nav-link.active,
 .fixed-top .navbar-nav .nav-link.show,
 .fixed-top  .navbar-nav .show>.nav-link
 {
-    color: #f3c26b !important;
+    color: #ffb252 !important;
 }
 
 .fixed-top  .navbar-nav .active>.nav-link:before,
@@ -314,24 +315,24 @@
 }
     
 .fixed-top .navbar-brand {
-    color: #f3c26b !important;
+    color: #ffb252 !important;
 }
 .fixed-top .navbar-brand .brand-bg {
-    background: #f3c26b;
+    background: #ffb252;
 }
 .navbar-light .navbar-toggler-icon,
 .navbar-light .navbar-toggler-icon.active ,
 .nav-fixed .navbar-toggler-icon,
 .nav-fixed .navbar-toggler-icon.active {
     
-    background: #f3c26b !important;
+    background: #ffb252 !important;
 }
 .fixed-top .navbar-nav .active>.nav-link,
 .fixed-top  .navbar-nav .nav-link.active,
 .fixed-top .navbar-nav .nav-link.show,
 .fixed-top  .navbar-nav .show>.nav-link
 {
-    color: #f3c26b !important;
+    color: #ffb252 !important;
 }
 
 .fixed-top  .navbar-nav .active>.nav-link:before,
