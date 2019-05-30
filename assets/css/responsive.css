@@ -9,7 +9,7 @@
     border-bottom: 1px solid #29292d;
 }
 .dark.navbar-light .navbar-collapse {
-    background: rgba(0,0,0,0.5);
+    background:transparent;
 }
 .dark.navbar-light .navbar-nav .nav-item .nav-link {
     color: #f9f9f9;
