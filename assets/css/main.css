@@ -648,20 +648,20 @@ body {
     padding: 100px 0;
 }
 
-
 .info-header h1 {
     color: #ffb252;
     white-space: nowrap;    
     text-transform: capitalize;
     letter-spacing: 4px;
     padding-left: 70px;
-    font-size:80px;
+    font-size:85px;
     text-align: left;
-    font-weight: 700;
+    font-weight: 800;
     line-height: 70px;
     position: relative;
     text-align: center;
-    margin-bottom: 30px
+    margin-bottom: 30px;
+   
 }
 
 
@@ -686,7 +686,7 @@ body {
 }
 .banner-meta {
     margin: 0 0 30px;
-    background:rgba(1, 13, 20, 0.68);
+    background:rgb(7, 14, 22);
     display: inline-block;
     padding: 10px 30px
      
