@@ -71,24 +71,24 @@ input[type="text"], input[type="email"], input[type="url"], input[type="tel"], i
     background: #040e15;
 }
 .my-resume {
-    border-left: 2px solid #040e15;
+    border-left: 2px solid #011521;
 }
 .history-top {
     color: #f9f9f9;
     background: #011521;
-    border: 1px solid #040e15;
+    border: 2px solid #011521;
 }
 
 .resume-item {
     background: #011521;
-    border: 1px solid #040e15;  
+    border: 2px solid #011521;  
 }
 
 .resume-head .content-exper h4 {
     color: #f9f9f9;
 }
 .history-top::before {
-    background: #040e15;
+    background: #011521;
 }
 .resume-head {
     border-bottom: 2px solid #040e15;
